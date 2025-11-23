@@ -38,3 +38,10 @@ out/
 
 # Local env file containing secrets - do not commit
 .env
+
+target/
+.idea/
+*.iml
+*.class
+*.log
+*.env
