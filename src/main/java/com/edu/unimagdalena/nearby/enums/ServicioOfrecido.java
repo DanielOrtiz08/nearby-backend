@@ -1,0 +1,21 @@
+package com.edu.unimagdalena.nearby.enums;
+
+public enum ServicioOfrecido {
+    BAÑO_COMPARTIDO,
+    BAÑO_INTERNO,
+    COCINA_COMPARTIDA,
+    COCINA_INTERNA,
+    SERVICIO_LUZ_INCLUIDO,
+    SERVICIO_AGUA_INCLUIDO,
+    SERIVICIO_GAS_INCLUIDO,
+    INTERNET,
+    TV,
+    AIRE,
+    PARQUEADERO,
+    PISCINA,
+    MASCOTAS,
+    VIGILANCIA,
+    GIMNASIO,
+    AMOBLADO,
+    SEMI_AMOBLADO,
+}
